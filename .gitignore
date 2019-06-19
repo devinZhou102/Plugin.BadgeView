@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/sample/SampleBadge/SampleBadge/obj
+/.vs/Plugin.BadgeView
+/sample/SampleBadge/SampleBadge.Android/obj
+/sample/SampleBadge/SampleBadge.iOS/obj
+/src/Plugin.BadgeView/.vs/Plugin.BadgeView
+/src/Plugin.BadgeView/obj
+/src/Plugin.BadgeView.Android/obj
+/src/Plugin.BadgeView.iOS/obj
